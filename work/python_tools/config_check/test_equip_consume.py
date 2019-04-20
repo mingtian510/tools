@@ -4,6 +4,8 @@ import sys
 import configparser
 from txt_to_xlsx import txt_to_xlsx
 import unittest
+import configparser
+
 def test_equip_consume():
     qian_equip_consume_path = r"F:\jiuzhou\code\int\Unity\Assets\Resources\Config\Game\Equipment\EquipConfig.txt"
     hou_equip_consume_path = r"F:\jiuzhou\后台\code\int\plugin\game\.cfg\equipment_info.cfg"

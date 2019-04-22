@@ -19,8 +19,9 @@
      装备强化消耗(EquipConfig.txt;equipment_info.cfg)不需要进行原文件处理
     check_equip_resolve
      装备分解奖励(EquipConfig.txt;resolve_info.cfg)不需要进行原文件处理
-     基础属性（只判断数字，不判断类型）
-
+    test_equip_basic
+     基础属性(EquipConfig.txt;equipment.cfg（只判断数字，不判断类型）
+    test_equip_promote
      强化属性
     check_equip_response
      装备共鸣属性(EquipResponseConfig.txt;attrs_equipment.cfg)不需要进行原文件处理

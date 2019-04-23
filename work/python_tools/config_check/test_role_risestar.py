@@ -85,3 +85,4 @@ def test_role_risestar():
     check_config_result(qian_data_smallstar,hou_data_smallstar)
     #"英雄激活星格前后配置一致"
 
+test_role_risestar()

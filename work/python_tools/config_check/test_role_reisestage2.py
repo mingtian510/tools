@@ -40,6 +40,7 @@ def test_role_reisestage():
         hou_tmp = str(table_hou.cell_value(num, 0).replace(' ', '').replace('{', '').replace('}', '').replace('[', '').replace(']','').replace('\n', '')).split(',')
         hou_id = hou_tmp[0]
         hou_value = hou_tmp[2][0]
+        #print(hou_value)
         hou_data[hou_id] = hou_value
 
     print(hou_data)
@@ -54,3 +55,4 @@ def test_role_reisestage():
     #     print("不一致的英雄id为{}".format(result_list))
     # else:
     #     print("英雄升阶路线前后配置一致")
+#test_role_reisestage()

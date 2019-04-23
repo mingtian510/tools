@@ -37,7 +37,6 @@ def test_shop():
         value.update(pricetype = itemConfig[int(value['pricetype'])])
 
     print(qian_data)
-
     #qian_data为前台最终数据
 
     #后台配置表操作：直接将所有商品条目复制到一张表中.(后台配置表有个七日狂欢卖信物的配置临时删除，格式和其他不一样

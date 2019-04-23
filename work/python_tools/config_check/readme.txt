@@ -22,13 +22,18 @@
     test_equip_basic
      基础属性(EquipConfig.txt;equipment.cfg（只判断数字，不判断类型）
     test_equip_promote
-     强化属性
+     强化属性(EquipConfig.txt;attrs_equipment.cfg)不需要进行原文件处理
     check_equip_response
      装备共鸣属性(EquipResponseConfig.txt;attrs_equipment.cfg)不需要进行原文件处理
 
+    兵种
+    test_army_upgrade
+     兵种升级经验值(ArmyExpConfig.txt;game_info,cfg)
+    test_army_quality
+     兵种升阶消耗（HeroArmyConfig.txt;card_info.cfg)
+
 
     副本
-
     check_level_chapter
         章节宝箱奖励(ChapterConfig.txt;duplicate.cfg)不需要进行原文件处理
     check_level_consume

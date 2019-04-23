@@ -13,7 +13,7 @@ def txt_to_xlsx(file_txt_path,file_xlsx_name):
             if not line:
                 break  #如果没有内容，则退出循环
             for i in range(len(line.split('\t'))):
-                item = line.split('\t')[i]
+                item = line.split('\t')[i]      #replace('\t','').
                 sheet.write(x,i,item)  #x单元格经度，i单元格纬度
             x += 1          #excel另起一行
         file_txt.close()

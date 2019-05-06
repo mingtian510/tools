@@ -6,11 +6,11 @@ from check_config_result import check_config_result
 """
 步骤：1、将前台配置表ShopGoodsConfig.txt放入config文件夹中。
        2、后台配置表直接将所有商品条目复制到一张表中.取名"shop_list.cfg"
-       3、可能会有数据结构不一致的情况，比如月石有第一次半价的设定，需要在前后配置表中将这些配置临时删除掉。已知的有70049
+       3、可能会有数据结构不一致的情况，比如月石有第一次半价的设定，需要在前后配置表中将这些配置临时删除掉。已知的有70049/64002
        
 """
 def test_shop():
-    itemConfig = {90101:'rmb',90102:'card_soul',90107:'corps_money',90001:'wood',90003:'mineral',90002:'iron',90018:'arena_money'}
+    itemConfig = {90101:'rmb',90102:'card_soul',90107:'corps_money',90001:'wood',90003:'mineral',90002:'iron',90018:'arena_money',90019:'skin_money'}
     txt_to_xlsx("D:/python_tools/config/ShopGoodsConfig.txt","D:/python_tools/config/ShopGoodsConfig.xlsx")
     qian_config = xlrd.open_workbook("D:/python_tools/config/ShopGoodsConfig.xlsx")
     table = qian_config.sheets()[0]
@@ -45,10 +45,12 @@ def test_shop():
     table = hou_config.sheets()[0]
     hou_data = {}
     #处理数据结构
+    #print(table.nrows)
     for n in range(table.nrows):
-        hou_tmp = str(table.cell_value(n,0).replace(' ','').replace('\n','').replace('{','').replace('}','').replace('[','').replace(']',''))
+        hou_tmp = str(table.cell_value(n,0).replace(' ','').replace('\n','').replace('{','').replace('}','').replace('[','').replace(']','')).strip()
         hou_tmp_split = hou_tmp.split(',')
         hou_tmp_value = []
+        #print(hou_tmp_split)
         for n in range(len(hou_tmp_split)):
             if n in [0,2,3,4,5]:
                 hou_tmp_value.append(hou_tmp_split[n])
@@ -66,3 +68,5 @@ def test_shop():
 
     check_config_result(qian_data,hou_data)
     #"商品前后配置一致"
+
+#test_shop()

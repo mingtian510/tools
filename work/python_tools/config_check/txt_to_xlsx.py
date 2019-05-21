@@ -3,7 +3,8 @@ import xlwt
 
 def txt_to_xlsx(file_txt_path,file_xlsx_name):
     try:
-        file_txt = open(file_txt_path,'r',encoding='utf-8')
+        #file_txt = open(file_txt_path,'r',encoding='unicode_escape')
+        file_txt = open(file_txt_path, 'r', encoding='utf-8')
         file_xlsx = xlwt.Workbook()
         sheet = file_xlsx.add_sheet('shee1',cell_overwrite_ok=True)
         x = 0

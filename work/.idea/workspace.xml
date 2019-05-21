@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dffe52c-df22-4fb8-9499-2c132c70b191" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_tools/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_tools/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_tools/config_check/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_tools/config_check/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_tools/config_check/test_army.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_tools/config_check/test_army.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_tools/config_check/test_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_tools/config_check/test_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_tools/config_check/txt_to_xlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_tools/config_check/txt_to_xlsx.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,16 +17,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_tools/config_check/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="457">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_army.py">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_level.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-741">
+            <state relative-caret-position="-1639">
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -39,10 +35,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_shop.py">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/resolve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="69" column="10" lean-forward="true" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
+            <state relative-caret-position="228">
+              <caret line="123" column="43" lean-forward="true" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#170#1798#0" />
+                <element signature="e#1826#3519#0" />
+                <element signature="e#3505#5129#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_army.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-613">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -51,9 +62,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_equip.py">
+        <entry file="file://$PROJECT_DIR$/python_tools/check_config_result.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_shop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="527">
+              <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_skill_consume.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_risestar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="56" column="30" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="56" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_upgrade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_risestage1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="112" lean-forward="true" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="112" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -63,6 +127,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -70,8 +141,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/python_tools/config_check/report.html" />
-        <option value="$PROJECT_DIR$/python_tools/config_check/readme.txt" />
         <option value="$PROJECT_DIR$/python_tools/config_check/test_shop.py" />
+        <option value="$PROJECT_DIR$/python_tools/config_check/txt_to_xlsx.py" />
+        <option value="$PROJECT_DIR$/python_tools/config_check/test_army.py" />
+        <option value="$PROJECT_DIR$/python_tools/config_check/test_main.py" />
+        <option value="$PROJECT_DIR$/python_tools/config_check/readme.txt" />
+        <option value="$PROJECT_DIR$/python_tools/config_check/resolve.py" />
       </list>
     </option>
   </component>
@@ -105,6 +180,12 @@
               <item name="python_tools" type="462c0819:PsiDirectoryNode" />
               <item name="config_check" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="python_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="mem_over" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_shop">
-    <configuration name="test_shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest in resolve.py">
+    <configuration name="resolve" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_tools/config_check/test_shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_tools/config_check/resolve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_shop.test_shop" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for resolve.test_resolve1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,14 +242,62 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_shop.test_shop&quot;" />
+      <option name="_new_target" value="&quot;resolve.test_resolve1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in resolve.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_tools/config_check" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python_tools/config_check/resolve.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_role_risestar.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_tools/config_check" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python_tools/config_check/test_role_risestar.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_skill_consume.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_tools/config_check" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python_tools/config_check/test_skill_consume.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_shop" />
-        <item itemvalue="Python tests.pytest for test_shop.test_shop" />
+        <item itemvalue="Python tests.pytest in resolve.py" />
+        <item itemvalue="Python.resolve" />
+        <item itemvalue="Python tests.pytest for resolve.test_resolve1" />
+        <item itemvalue="Python tests.pytest in test_role_risestar.py" />
+        <item itemvalue="Python tests.pytest in test_skill_consume.py" />
       </list>
     </recent_temporary>
   </component>
@@ -186,17 +315,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_shop_test_shop - 2019.05.05 at 09h 45m 32s.xml">
-      <configuration name="pytest for test_shop.test_shop" configurationId="tests" />
+    <history-entry file="pytest_in_test_skill_consume_py - 2019.05.07 at 19h 51m 14s.xml">
+      <configuration name="pytest in test_skill_consume.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_shop_test_shop - 2019.05.05 at 09h 50m 40s.xml">
-      <configuration name="pytest for test_shop.test_shop" configurationId="tests" />
+    <history-entry file="pytest_in_test_skill_consume_py - 2019.05.07 at 19h 52m 52s.xml">
+      <configuration name="pytest in test_skill_consume.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_shop_test_shop - 2019.05.05 at 09h 50m 52s.xml">
-      <configuration name="pytest for test_shop.test_shop" configurationId="tests" />
+    <history-entry file="pytest_in_test_skill_consume_py - 2019.05.07 at 19h 55m 48s.xml">
+      <configuration name="pytest in test_skill_consume.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_shop_test_shop - 2019.05.05 at 09h 53m 58s.xml">
-      <configuration name="pytest for test_shop.test_shop" configurationId="tests" />
+    <history-entry file="pytest_in_test_skill_consume_py - 2019.05.07 at 19h 59m 19s.xml">
+      <configuration name="pytest in test_skill_consume.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_skill_consume_py - 2019.05.07 at 19h 59m 45s.xml">
+      <configuration name="pytest in test_skill_consume.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_role_risestar_py - 2019.05.07 at 20h 01m 13s.xml">
+      <configuration name="pytest in test_role_risestar.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_role_risestar_py - 2019.05.07 at 20h 01m 42s.xml">
+      <configuration name="pytest in test_role_risestar.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_role_risestar_py - 2019.05.07 at 20h 02m 07s.xml">
+      <configuration name="pytest in test_role_risestar.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_resolve_test_resolve1 - 2019.05.21 at 14h 04m 03s.xml">
+      <configuration name="pytest for resolve.test_resolve1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_resolve_py - 2019.05.21 at 14h 27m 10s.xml">
+      <configuration name="pytest in resolve.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -210,19 +357,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -231,14 +379,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_tools/config_check/report.html" />
-    <entry file="file://$PROJECT_DIR$/python_tools/config_check/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_equip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -248,9 +388,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_army.py">
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/report.html" />
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_main.py" />
+    <entry file="file://$PROJECT_DIR$/python_tools/mem_over/mem_check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/txt_to_xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_risestage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_risestage1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="112" lean-forward="true" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_skill_consume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -259,10 +437,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_shop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="69" column="10" lean-forward="true" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
+        <state relative-caret-position="527">
+          <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_upgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_role_risestar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="56" column="30" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1639">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/test_army.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/check_config_result.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_tools/config_check/resolve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="123" column="43" lean-forward="true" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#170#1798#0" />
+            <element signature="e#1826#3519#0" />
+            <element signature="e#3505#5129#0" />
           </folding>
         </state>
       </provider>

@@ -35,12 +35,21 @@
 
 
     副本
-    check_level_chapter
+    test_level_chapter
         章节宝箱奖励(ChapterConfig.txt;duplicate.cfg)不需要进行原文件处理
-    check_level_consume
+    test_level_consume
         副本体力消耗、挑战次数(LevelConfig.txt;duplicate.cfg)不需要进行原文件处理
         副本掉落与预览(awardconfig.txt
-        重置次数
-        重置消耗
+        重置次数（等VIP配置）
+        重置消耗（等VIP配置）
+
+    回收
+    test_resolve1
+        英雄——>信物（roleconfig.txt;resolve_info.cfg)不需要进行原文件处理
+    test_resolve2
+        装备分解（Equipment.txt;resolve_info.cfg)不需要进行原文件处理
+    test_resolve3
+        英雄碎片——>信物（roleconfig.txt;resolve_info.cfg)不需要进行原文件处理
+
 
 
